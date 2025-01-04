@@ -1,1 +1,1 @@
-# SE_PBL_Project
+This repository contains PCB and circuit designs for a password-based circuit breaker system. The project includes schematics, PCB layouts, and code developed using EasyEDA and Proteus for simulation and design
